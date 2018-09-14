@@ -1,5 +1,3 @@
-import store from './store';
-
 const addToCart = product =>{
     return {
         type: "ADD_TO_CART",
